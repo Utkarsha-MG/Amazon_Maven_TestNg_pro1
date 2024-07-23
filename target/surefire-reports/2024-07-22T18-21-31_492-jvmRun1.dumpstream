@@ -1,0 +1,11 @@
+# Created at 2024-07-22T18:21:33.660
+Illegal type at constant pool entry 87 in class project_1_testcase_classes.Screenshot_Listner
+Exception Details:
+  Location:
+    project_1_testcase_classes/Screenshot_Listner.onTestFailedButWithinSuccessPercentage(Lorg/testng/ITestResult;)V @2: invokespecial
+  Reason:
+    Constant pool index 87 is invalid
+  Bytecode:
+    0000000: 2a2b b700 57b1                         
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test case Pass]]>
+    </line>
+    <line>
+      <![CDATA[Test case Pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-22T23:09:27 IST" name="Amazon Suite" finished-at="2024-07-22T23:10:17 IST" duration-ms="50230">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T23:09:27 IST" name="Project_1_testcase_classes" finished-at="2024-07-22T23:10:17 IST" duration-ms="50230">
+      <class name="project_1_testcase_classes.Testcase1_New_User_reg_page">
+        <test-method signature="Createaccount()[pri:0, instance:project_1_testcase_classes.Testcase1_New_User_reg_page@4738a206]" started-at="2024-07-22T23:09:27 IST" name="Createaccount" finished-at="2024-07-22T23:09:34 IST" duration-ms="7498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Createaccount -->
+      </class> <!-- project_1_testcase_classes.Testcase1_New_User_reg_page -->
+      <class name="project_1_testcase_classes.Testcase_3_invlalid_login_page">
+        <test-method signature="Invalidcred()[pri:0, instance:project_1_testcase_classes.Testcase_3_invlalid_login_page@bae7dc0]" started-at="2024-07-22T23:09:36 IST" name="Invalidcred" finished-at="2024-07-22T23:10:16 IST" duration-ms="39683" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Invalidcred -->
+      </class> <!-- project_1_testcase_classes.Testcase_3_invlalid_login_page -->
+    </test> <!-- Project_1_testcase_classes -->
+  </suite> <!-- Amazon Suite -->
+</testng-results>

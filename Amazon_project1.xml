@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Amazon Suite">
+  <test thread-count="5" name="Project_1_testcase_classes">
+    <classes>
+      <class name="project_1_testcase_classes.Testcase1_New_User_reg_page"/>
+            <class name="project_1_testcase_classes.Testcase_3_invlalid_login_page"/>
+
+    <!-- <class name="project_1_testcase_classes.Testcase_7_PRD"/>
+      <class name="project_1_testcase_classes.TestCae_11_CheckoutProcess"/>
+      <class name="project_1_testcase_classes.Testcase_4_manageprofile"/>
+      <class name="project_1_testcase_classes.TestCase_9_ShoppingCart"/>
+      <class name="project_1_testcase_classes.Testcase_2_valid_login_page"/>
+      <class name="project_1_testcase_classes.Testcase_10_Quantities"/>
+      <class name="project_1_testcase_classes.Testcase_5__Searching_prod_page"/>-->
+    </classes>
+  </test> <!-- Project_1_testcase_classes -->
+</suite> <!-- Amazon Suite -->
